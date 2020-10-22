@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "dc7da3ea966956e0a8a9996888880810",
+    "revision": "67ac5a8a9485c90b5dd931c9391c3a3c",
     "url": "/skillpill/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/skillpill/static/css/2.6414bb7b.chunk.css"
   },
   {
-    "revision": "149ec49129273e76367e",
-    "url": "/skillpill/static/css/main.6b2a96c4.chunk.css"
+    "revision": "edca73b4dca1cc74bb6d",
+    "url": "/skillpill/static/css/main.bec670ea.chunk.css"
   },
   {
     "revision": "43f584f35af7337200cf",
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/skillpill/static/js/2.64c974e9.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "149ec49129273e76367e",
-    "url": "/skillpill/static/js/main.78a5304c.chunk.js"
+    "revision": "edca73b4dca1cc74bb6d",
+    "url": "/skillpill/static/js/main.2285c30b.chunk.js"
   },
   {
     "revision": "d775fc381c11307d43b6",
