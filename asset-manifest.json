@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/skillpill/static/css/main.bec670ea.chunk.css",
-    "main.js": "/skillpill/static/js/main.2285c30b.chunk.js",
-    "main.js.map": "/skillpill/static/js/main.2285c30b.chunk.js.map",
+    "main.js": "/skillpill/static/js/main.a87344c2.chunk.js",
+    "main.js.map": "/skillpill/static/js/main.a87344c2.chunk.js.map",
     "runtime-main.js": "/skillpill/static/js/runtime-main.9006bbe5.js",
     "runtime-main.js.map": "/skillpill/static/js/runtime-main.9006bbe5.js.map",
     "static/css/2.6414bb7b.chunk.css": "/skillpill/static/css/2.6414bb7b.chunk.css",
     "static/js/2.64c974e9.chunk.js": "/skillpill/static/js/2.64c974e9.chunk.js",
     "static/js/2.64c974e9.chunk.js.map": "/skillpill/static/js/2.64c974e9.chunk.js.map",
     "index.html": "/skillpill/index.html",
-    "precache-manifest.69f0ee2bc707eb8991cd005e0e580ff5.js": "/skillpill/precache-manifest.69f0ee2bc707eb8991cd005e0e580ff5.js",
+    "precache-manifest.f6f5980ebeb270e08c65af3eadfc5398.js": "/skillpill/precache-manifest.f6f5980ebeb270e08c65af3eadfc5398.js",
     "service-worker.js": "/skillpill/service-worker.js",
     "static/css/2.6414bb7b.chunk.css.map": "/skillpill/static/css/2.6414bb7b.chunk.css.map",
     "static/css/main.bec670ea.chunk.css.map": "/skillpill/static/css/main.bec670ea.chunk.css.map",
@@ -20,6 +20,6 @@
     "static/css/2.6414bb7b.chunk.css",
     "static/js/2.64c974e9.chunk.js",
     "static/css/main.bec670ea.chunk.css",
-    "static/js/main.2285c30b.chunk.js"
+    "static/js/main.a87344c2.chunk.js"
   ]
 }
